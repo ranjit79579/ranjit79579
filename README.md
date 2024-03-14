@@ -31,7 +31,7 @@ Want to know more about me? [Check out My Portfolio](https://ranjit79579.github.
 <h3 align="left">Connect with me:</h3>
 <ul>
 <li>
-  <a href="www.linkedin.com/in/bipin-singh2323" target="blank">Linkedin</a></li>
+  <a href="www.linkedin.com/in/ranjit79579" target="blank">Linkedin</a></li>
   <li>
     <a href="https://ranjit79579.github.io/portfolio" target="blank">Portfolio</a>
   </li>
